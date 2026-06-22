@@ -49,10 +49,10 @@ Este documento actúa como el **Tablero de Control (Dashboard)** del proyecto. A
 ### Sprint 4: Lógica de Negocio y Conexión (Progreso: 0%)
 * **Tiempo Estimado:** 25 horas.
 * **Estado:** 🔴 Por Iniciar.
-- [ ] Backend: Desarrollar Controladores de Proyectos y Pagos.
-- [ ] Backend: Desarrollar Controladores de Calendario/Eventos.
+- [ ] Backend: Desarrollar Controladores según los 3 Perfiles (Ej: Pagos para Clientes, Gestión total para Admin).
+- [ ] Backend: Desarrollar Controladores de Calendario/Eventos (Visibilidad por Rol).
 - [ ] Frontend: Conectar pantalla de Login al JWT real.
-- [ ] Frontend: Proteger Rutas en Blazor (Solo usuarios autenticados).
+- [ ] Frontend: Proteger Rutas en Blazor (Redirección automática según el Rol: Admin, Empleado o Cliente).
 - [ ] Frontend: Consumir endpoints de Proyectos, Pagos y Calendario.
 
 ---
