@@ -6,7 +6,7 @@
       {
         "id": "4337434b11b05984",
         "type": "tabs",
-        "dimension": 82.99492385786802,
+        "dimension": 65.60913705583756,
         "children": [
           {
             "id": "ca463b5219860b95",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gestion y Negocio/04_Guia_Compartir_y_Sincronizar_Boveda.md",
+                "file": "Gestion y Negocio/01_Organizacion_y_Flujo_DevOps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04_Guia_Compartir_y_Sincronizar_Boveda"
+              "title": "01_Organizacion_y_Flujo_DevOps"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "d40b7b68f1d4ddf7",
         "type": "tabs",
-        "dimension": 17.00507614213198,
+        "dimension": 34.390862944162436,
         "children": [
           {
             "id": "7246a714d45cf115",
