@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gestion y Negocio/01_Organizacion_y_Flujo_DevOps.md",
+                "file": "Gestion y Negocio/05_Project_Manager_Tracker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_Organizacion_y_Flujo_DevOps"
+              "title": "05_Project_Manager_Tracker"
             }
           }
         ]
@@ -203,11 +203,12 @@
   },
   "active": "ca463b5219860b95",
   "lastOpenFiles": [
-    "Landing-1.pdf",
     "Gestion y Negocio/04_Guia_Compartir_y_Sincronizar_Boveda.md",
+    "Gestion y Negocio/05_Project_Manager_Tracker.md",
+    "Gestion y Negocio/01_Organizacion_y_Flujo_DevOps.md",
+    "Landing-1.pdf",
     "Gestion y Negocio/03_Presupuesto_y_Estimaciones.md",
     "Gestion y Negocio/02_Planificacion_Backlog_MVP.md",
-    "Gestion y Negocio/01_Organizacion_y_Flujo_DevOps.md",
     "Arquitectura.NET/01_Arquitectura_y_Patrones.md",
     "Arquitectura.NET/Frontend/02_LandingPage_Dinamica_Blazor.md",
     "Arquitectura.NET/Frontend/01_Componentes_Blazor_y_Modelos3D.md",

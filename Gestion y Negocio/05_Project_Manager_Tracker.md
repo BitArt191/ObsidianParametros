@@ -28,6 +28,7 @@ Este documento actúa como el **Tablero de Control (Dashboard)** del proyecto. A
 * **Responsables:** Socia Frontend.
 * **Estado:** 🟡 En Progreso Final.
 - [x] Maquetación de la Landing Page dinámica con CSS y animaciones JS.
+- [ ] Ajustes finales de estilo visual y diseño de la Landing Page (Pulido UI).
 - [x] Integración de carga de modelos 3D (`.glb`).
 - [x] Diseño UI Portales (Admin, Cliente, Empleado).
 - [ ] Conexión del diseño UI con los datos reales de la API. *(Pendiente Sprint 4)*
