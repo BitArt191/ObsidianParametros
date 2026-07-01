@@ -28,7 +28,8 @@ Este documento actúa como el **Tablero de Control (Dashboard)** del proyecto. A
 * **Responsables:** Socia Frontend.
 * **Estado:** 🟡 En Progreso Final.
 - [x] Maquetación de la Landing Page dinámica con CSS y animaciones JS.
-- [ ] Ajustes finales de estilo visual y diseño de la Landing Page (Pulido UI).
+- [ ] Ajustes finales de estilo visual y diseño de la Landing Page (Pulido UI) (Viernes).
+- [ ]  Ajustes finales de estilo visual perfiles y  revisión de flujo (viernes).
 - [x] Integración de carga de modelos 3D (`.glb`).
 - [x] Diseño UI Portales (Admin, Cliente, Empleado).
 - [ ] Conexión del diseño UI con los datos reales de la API. *(Pendiente Sprint 4)*
@@ -43,7 +44,7 @@ Este documento actúa como el **Tablero de Control (Dashboard)** del proyecto. A
 - [x] Controladores de Autenticación y Generación de Pines Secretos.
 - [x] Fusión (Merge) exitosa de Frontend y Backend en rama `develop`.
 - [x] Migración de variables sensibles a `secrets.json` (DevOps).
-- [ ] Subir cambios integrados a GitHub (`git push develop`).
+- [x] Subir cambios integrados a GitHub (`git push develop`).
 - [ ] Implementar Pruebas Unitarias (`BitArt.Tests`) para Auth y Pines.
 
 ### Sprint 4: Lógica de Negocio y Conexión (Progreso: 0%)
