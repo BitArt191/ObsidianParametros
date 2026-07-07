@@ -28,18 +28,24 @@ https://saaspo.com
      - **Superposición de Elementos (Z-index):** La tipografía gigante ("Deep Work Uninterrupted") pasa por detrás del modelo 3D, creando una fuerte sensación espacial.
      - **Iluminación Dinámica:** Fondos oscuros con gradientes radiales (púrpura/azul) que hacen resaltar el objeto 3D.
      - **Floating Nav Bar:** Un menú de navegación flotante tipo "píldora" en la parte inferior, súper minimalista.
+3. **[Dreiraum Studio (Agencia 3D)](https://dreiraum.studio/en/)**
+   * *¿Qué nos gustó?:*
+     - **Estructura y Header:** Distribución muy clara y ganadora para explicar servicios paso a paso ("De plano a cautivador en 3 pasos").
+     - **Gradientes y Bordes Iluminados:** Las tarjetas de precios y características no tienen bordes sólidos, sino gradientes (morado/rosa) finos y sutiles que dan aspecto premium y tecnológico.
+     - **Tarjetas Interactivas (Cards):** Modelos 3D integrados directamente dentro de las tarjetas individuales, con fondos texturizados y transiciones muy suaves al pasar el mouse.
+     - **Sección de Precios (Pricing):** Excelente forma de resaltar el plan principal ("Transform") usando luz de fondo y etiquetas flotantes ("Beliebt").
 
 ---
 
 ## 🖼️ Capturas de Pantalla y Videos (Imágenes)
 *Pega aquí directamente las imágenes (en Obsidian) de componentes específicos que te hayan gustado.*
 *(Ejemplo: Capturas de botones interactivos, tarjetas con sombras, efectos 3D, etc.)*
-![[Pasted image 20260707102033.png]]
-![[Pasted image 20260707102341.png]]
-![[Pasted image 20260707102107.png]]
-
----
-
+![[Pasted image 20260707110128.png|697]]
+![[Pasted image 20260707110200.png]]
+![[Pasted image 20260707105703.png]]
+![[Pasted image 20260707105730.png]]
+![[Pasted image 20260707105803.png|697]]
+![[Pasted image 20260707105851.png|697]]
 ## 💡 Ideas para Integrar en Blazor
 *Anotaciones técnicas de cómo traduciremos las referencias a código real.*
 
