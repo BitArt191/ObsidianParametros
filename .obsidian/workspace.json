@@ -12,12 +12,14 @@
             "id": "ca463b5219860b95",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Landing-1.pdf"
+                "file": "Frontend/01_Referencias_y_Moodboard.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Landing-1"
+              "icon": "lucide-file",
+              "title": "01_Referencias_y_Moodboard"
             }
           }
         ]
@@ -201,8 +203,8 @@
   },
   "active": "ca463b5219860b95",
   "lastOpenFiles": [
+    "Frontend/Landing-1.pdf",
     "Frontend/01_Referencias_y_Moodboard.md",
-    "Landing-1.pdf",
     "Arquitectura.NET/Frontend/01_Componentes_Blazor_y_Modelos3D.md",
     "Arquitectura.NET/Frontend/02_LandingPage_Dinamica_Blazor.md",
     "Gestion y Negocio/05_Project_Manager_Tracker.md",
