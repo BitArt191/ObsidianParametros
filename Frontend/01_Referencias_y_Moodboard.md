@@ -22,8 +22,12 @@ https://saaspo.com
      - **Presentación de Proyectos en Capas (Floating UI):** Los proyectos (como la app del teléfono o el dashboard) no están en cajas rígidas. Tienen elementos de la interfaz flotando alrededor en 3D (parallax), dando sensación de profundidad.
      - **Textura de Fondo:** Uso de "ruido" (grain) o partículas estáticas en el fondo que rompen lo plano del color sólido.
      - **Navegación Lateral:** Línea de tiempo vertical a la izquierda muy elegante.
-2. **[Espacio para la segunda referencia...]**
-   * *¿Qué nos gustó?:* ...
+2. **[Flowty (App de Productividad)](https://flowty.co)**
+   * *¿Qué nos gustó?:*
+     - **Objeto 3D Central atado al Scroll:** Un modelo 3D hiperrealista (el celular) que flota, rota y desciende físicamente por la página a medida que el usuario hace scroll. 
+     - **Superposición de Elementos (Z-index):** La tipografía gigante ("Deep Work Uninterrupted") pasa por detrás del modelo 3D, creando una fuerte sensación espacial.
+     - **Iluminación Dinámica:** Fondos oscuros con gradientes radiales (púrpura/azul) que hacen resaltar el objeto 3D.
+     - **Floating Nav Bar:** Un menú de navegación flotante tipo "píldora" en la parte inferior, súper minimalista.
 
 ---
 

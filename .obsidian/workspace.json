@@ -6,7 +6,6 @@
       {
         "id": "4337434b11b05984",
         "type": "tabs",
-        "dimension": 65.60913705583756,
         "children": [
           {
             "id": "ca463b5219860b95",
@@ -14,29 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/01_Referencias_y_Moodboard.md",
+                "file": "Frontend/02_Propuesta_UI_Avanzada.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_Referencias_y_Moodboard"
-            }
-          }
-        ]
-      },
-      {
-        "id": "d40b7b68f1d4ddf7",
-        "type": "tabs",
-        "dimension": 34.390862944162436,
-        "children": [
-          {
-            "id": "7246a714d45cf115",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "title": "02_Propuesta_UI_Avanzada"
             }
           }
         ]
@@ -203,12 +185,12 @@
   },
   "active": "ca463b5219860b95",
   "lastOpenFiles": [
-    "Frontend/02_Propuesta_UI_Avanzada.md",
+    "Frontend/01_Referencias_y_Moodboard.md",
+    "Pasted image 20260707102004.png",
     "Pasted image 20260707102341.png",
     "Pasted image 20260707102107.png",
     "Pasted image 20260707102033.png",
-    "Pasted image 20260707102004.png",
-    "Frontend/01_Referencias_y_Moodboard.md",
+    "Frontend/02_Propuesta_UI_Avanzada.md",
     "Frontend/Landing-1.pdf",
     "Arquitectura.NET/Frontend/01_Componentes_Blazor_y_Modelos3D.md",
     "Arquitectura.NET/Frontend/02_LandingPage_Dinamica_Blazor.md",
