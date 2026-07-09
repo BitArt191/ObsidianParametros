@@ -40,6 +40,8 @@ https://saaspo.com
 ## 🖼️ Capturas de Pantalla y Videos (Imágenes)
 *Pega aquí directamente las imágenes (en Obsidian) de componentes específicos que te hayan gustado.*
 *(Ejemplo: Capturas de botones interactivos, tarjetas con sombras, efectos 3D, etc.)*
+![[Pasted image 20260707213958.png]]
+![[Pasted image 20260707213913.png]]
 ![[Pasted image 20260707110128.png|697]]
 ![[Pasted image 20260707110200.png]]
 ![[Pasted image 20260707105703.png]]

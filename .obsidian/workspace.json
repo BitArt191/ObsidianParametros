@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/01_Referencias_y_Moodboard.md",
+                "file": "Frontend/02_Propuesta_UI_Avanzada.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_Referencias_y_Moodboard"
+              "title": "02_Propuesta_UI_Avanzada"
             }
           }
         ]
@@ -185,6 +185,16 @@
   },
   "active": "ca463b5219860b95",
   "lastOpenFiles": [
+    "Frontend/03_Plan_Implementacion_Tecnica.md",
+    "Frontend/01_Referencias_y_Moodboard.md",
+    "Frontend/02_Propuesta_UI_Avanzada.md",
+    "BITART CORE MODELO DE NEGOCIO/1_Modelo_De_Negocio_Integral.md",
+    "BITART CORE MODELO DE NEGOCIO/2_Estrategia_De_Ingenieria.md",
+    "Gestion y Negocio/03_Presupuesto_y_Estimaciones.md",
+    "Gestion y Negocio/02_Planificacion_Backlog_MVP.md",
+    "Gestion y Negocio/01_Organizacion_y_Flujo_DevOps.md",
+    "Pasted image 20260707213958.png",
+    "Pasted image 20260707213913.png",
     "Pasted image 20260707110200.png",
     "Pasted image 20260707110128.png",
     "Pasted image 20260707110104.png",
@@ -192,25 +202,15 @@
     "Pasted image 20260707105803.png",
     "Pasted image 20260707105730.png",
     "Pasted image 20260707105703.png",
-    "Frontend/02_Propuesta_UI_Avanzada.md",
-    "Frontend/01_Referencias_y_Moodboard.md",
     "Pasted image 20260707102004.png",
-    "Pasted image 20260707102341.png",
-    "Pasted image 20260707102107.png",
-    "Pasted image 20260707102033.png",
     "Frontend/Landing-1.pdf",
     "Arquitectura.NET/Frontend/01_Componentes_Blazor_y_Modelos3D.md",
     "Arquitectura.NET/Frontend/02_LandingPage_Dinamica_Blazor.md",
     "Gestion y Negocio/05_Project_Manager_Tracker.md",
     "Frontend",
     "Gestion y Negocio/04_Guia_Compartir_y_Sincronizar_Boveda.md",
-    "Gestion y Negocio/01_Organizacion_y_Flujo_DevOps.md",
-    "Gestion y Negocio/03_Presupuesto_y_Estimaciones.md",
-    "Gestion y Negocio/02_Planificacion_Backlog_MVP.md",
     "Arquitectura.NET/01_Arquitectura_y_Patrones.md",
     "Arquitectura.NET/Backend/01_Estructura_de_BaseDatos_y_Migrations.md",
-    "BITART CORE MODELO DE NEGOCIO/2_Estrategia_De_Ingenieria.md",
-    "BITART CORE MODELO DE NEGOCIO/1_Modelo_De_Negocio_Integral.md",
     "BITART CORE MODELO DE NEGOCIO",
     "Arquitectura.NET/Frontend",
     "Arquitectura.NET/Backend",
