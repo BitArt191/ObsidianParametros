@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/02_Propuesta_UI_Avanzada.md",
+                "file": "Frontend/03_Plan_Implementacion_Tecnica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02_Propuesta_UI_Avanzada"
+              "title": "03_Plan_Implementacion_Tecnica"
             }
           }
         ]
@@ -185,9 +185,9 @@
   },
   "active": "ca463b5219860b95",
   "lastOpenFiles": [
+    "Frontend/02_Propuesta_UI_Avanzada.md",
     "Frontend/03_Plan_Implementacion_Tecnica.md",
     "Frontend/01_Referencias_y_Moodboard.md",
-    "Frontend/02_Propuesta_UI_Avanzada.md",
     "BITART CORE MODELO DE NEGOCIO/1_Modelo_De_Negocio_Integral.md",
     "BITART CORE MODELO DE NEGOCIO/2_Estrategia_De_Ingenieria.md",
     "Gestion y Negocio/03_Presupuesto_y_Estimaciones.md",
