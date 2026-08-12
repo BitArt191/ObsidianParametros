@@ -10,13 +10,13 @@ tags:
 *Sección manual para organizar el día. Puedes borrar o cambiar las tareas mañana.*
 
 **👩🏻‍💻 Milena: 3 horas (Backend / Data)**
-- [ ] **Backend:** Crear controladores (`ClientesController`, `EmpleadosController`) con endpoints completos de GET, PUT y DELETE. 📅 2026-07-26
-- [ ] **Data:** Crear entidad `Proyecto` con llaves foráneas apuntando a `Cliente` (One-to-Many) y `Empleado`. 📅 2026-07-26
-- [ ] **Data:** Añadir `Proyecto` al DbContext y generar su respectiva migración de EF Core. 📅 2026-07-26
+- [ ] **Backend:** Crear controladores (`ClientesController`, `EmpleadosController`) con endpoints completos de GET, PUT y DELETE. 📅 2026-07-27
+- [ ] **Data:** Crear entidad `Proyecto` con llaves foráneas apuntando a `Cliente` (One-to-Many) y `Empleado`. 📅 2026-07-27
+- [ ] **Data:** Añadir `Proyecto` al DbContext y generar su respectiva migración de EF Core. 📅 2026-07-27
 
 **👩🏻‍💻 Heidy: 2 horas (Frontend)**
-- [ ] **Frontend:** Crear las clases DTO (`ClienteFormDTO`, `EmpleadoFormDTO`, `AdminFormDTO`) con sus respectivas anotaciones de validación. 📅 2026-07-26
-- [ ] **Frontend:** Empezar a maquetar el componente `FormularioAdmin.razor` utilizando `<EditForm>` y validaciones. 📅 2026-07-26
+- [ ] **Frontend:** Crear las clases DTO (`ClienteFormDTO`, `EmpleadoFormDTO`, `AdminFormDTO`) con sus respectivas anotaciones de validación. 📅 2026-07-27
+- [ ] **Frontend:** Empezar a maquetar el componente `FormularioAdmin.razor` utilizando `<EditForm>` y validaciones. 📅 2026-07-27
 
 ## ⏱️ WakaTime Métricas
 

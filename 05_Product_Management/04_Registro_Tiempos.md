@@ -19,7 +19,7 @@ Este documento lleva el control de las horas *reales* invertidas en el desarroll
 
 #### 👩🏻‍💻 Milena (Meta: 4 días a la semana)
 *Trabajas 4 días a la semana, marcando tu avance.*
-- **Semana 1 (Julio 22 - Julio 28):** `[x]` `[x]` `[ x]` `[ ]`
+- **Semana 1 (Julio 22 - Julio 28):** `[x]` `[x]` `[ x]` `[x ]`
 - **Semana 2 (Julio 29 - Agosto 4):** `[ ]` `[ ]` `[ ]` `[ ]`
 - **Semana 3 (Agosto 5 - Agosto 11):** `[ ]` `[ ]` `[ ]` `[ ]`
 - **Semana 4 (Agosto 12 - Agosto 18):** `[ ]` `[ ]` `[ ]` `[ ]`
