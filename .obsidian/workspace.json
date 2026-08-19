@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_Product_Management/03_Backlog_Tareas.md",
-                "mode": "source",
+                "file": "05_Product_Management/00_Dashboard_PM.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03_Backlog_Tareas"
+              "title": "00_Dashboard_PM"
             }
           }
         ]
@@ -187,9 +187,25 @@
   },
   "active": "ca463b5219860b95",
   "lastOpenFiles": [
+    "Programacion General/DocuTecnicaBackend/09_Perfiles_De_Prueba.md",
+    "Programacion General/DocuTecnicaBackend/10_Entrevista_Arquitectura_BitArt.md",
+    "05_Product_Management/03_Backlog_Tareas.md",
+    "SkillsFlujo",
+    "Nueva carpeta",
     "05_Product_Management/02_Analisis_Riesgos_Incertidumbre.md",
     "05_Product_Management/01_Plan_Desarrollo_vs_Tiempo.md",
     "05_Product_Management/00_Dashboard_PM.md",
+    "05_Product_Management/04_Registro_Tiempos.md",
+    "Programacion General/DocuTecnicaBackend/03_Seguridad_Manejo_Secretos.md",
+    "Gestion y Negocio/06_Workflow_Operativo_BitArt_Core.md",
+    "Arquitectura.NET/Backend/01_Estructura_de_BaseDatos_y_Migrations.md",
+    "BITART CORE MODELO DE NEGOCIO/1_Modelo_De_Negocio_Integral.md",
+    "BITART CORE MODELO DE NEGOCIO/2_Estrategia_De_Ingenieria.md",
+    "BITART CORE MODELO DE NEGOCIO/3_Validacion_Mercado_2026.md",
+    "BITART CORE MODELO DE NEGOCIO/4_Planes_y_Soluciones.md",
+    "BITART CORE MODELO DE NEGOCIO/5_Estudio_Precios_Suscripciones.md",
+    "BITART CORE MODELO DE NEGOCIO/6_Politicas_Cobro_Setup.md",
+    "BITART CORE MODELO DE NEGOCIO/7_Pitch_Deck_y_Formulario.md",
     "Perfiles de usuario/Administrador/Subir proyecto bitart admin.png",
     "Perfiles de usuario/Administrador/Subir cliente bitart admin.png",
     "Perfiles de usuario/Administrador/Proyectos BitartAdmin.png",
@@ -200,11 +216,7 @@
     "Perfiles de usuario/Administrador/Dashboard Bitart.png",
     "Perfiles de usuario/Administrador/Clientes Bitart.png",
     "Perfiles de usuario/Administrador/Calendario Bitart.png",
-    "05_Product_Management/04_Registro_Tiempos.md",
-    "05_Product_Management/03_Backlog_Tareas.md",
-    "Programacion General/DocuTecnicaBackend/10_Entrevista_Arquitectura_BitArt.md",
     "Arquitectura.NET/01_Arquitectura_y_Patrones.md",
-    "Programacion General/DocuTecnicaBackend/09_Perfiles_De_Prueba.md",
     "Programacion General/DocuTecnicaBackend/08_Conceptos_API_Endpoints_JSON.md",
     "Programacion General/DocuTecnicaBackend/07_Arquitectura_Frontend_Backend_DB.md",
     "README.md",
@@ -217,21 +229,9 @@
     "Empleado",
     "Cliente",
     "Administrador",
-    "Programacion General/DocuTecnicaBackend/06_Seguridad_Bearer_Token_Swagger.md",
-    "Programacion General/DocuTecnicaBackend/05_Arquitectura_Patron_Repositorio.md",
-    "Programacion General/DocuTecnicaBackend/04_Arquitectura_Idempotencia_Pagos.md",
-    "Programacion General/DocuTecnicaBackend/03_Seguridad_Manejo_Secretos.md",
-    "Programacion General/DocuTecnicaBackend/02_Walkthrough_Sprint2_Usuarios.md",
-    "Programacion General/DocuTecnicaBackend/01_Arquitectura_Datos_Usuarios.md",
-    "DocuTecnicaBackend/02_Walkthrough_Sprint2_Usuarios.md",
     "DocuTecnicaBackend",
-    "Programacion General/Frontend/01_Referencias_y_Moodboard.md",
     "Programacion General/DocuTecnicaBackend",
     "Programacion General/DocuTecnicaBackend",
-    "2026-07-23.md",
-    "Sin título.canvas",
-    "Sin título 1.base",
-    "Sin título.base",
-    "Gestion y Negocio/05_Project_Manager_Tracker.md"
+    "Sin título.canvas"
   ]
 }

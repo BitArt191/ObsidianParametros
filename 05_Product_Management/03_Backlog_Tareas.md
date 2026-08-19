@@ -24,7 +24,7 @@
 - [ ] Data Seeding y Gestión de Administradores `#backend` `#data` `#frontend` #in-progress 🔺 📅 2026-07-28
   - [x] **Milena (Data)**: Crear un `DataSeeder` (Sembrador de datos) para inyectar automáticamente el Primer Admin (Root) al arrancar la app.
   - [x] **Milena (Backend)**: Crear endpoint restringido `[Authorize(Roles="Admin")]` para permitir crear otros administradores.
-  - [ ] **Heidy (Frontend)**: Crear `FormularioAdmin.razor` (interfaz exclusiva para administradores) que consuma el endpoint protegido.
+  - [x] **Heidy (Frontend)**: Crear `FormularioAdmin.razor` (interfaz exclusiva para administradores) que consuma el endpoint protegido. ✅ 2026-08-18
 - [ ] API de Perfiles: Clientes, Empleados y Admins (CRUD) `#backend` `#data` 🔽 📅 2026-07-31
   - [x] **Milena (Data)**: Crear las entidades `Cliente`, `Empleado` y `Admin` (o una tabla unificada con Roles) en `BitArt.Shared`.
   - [x] **Milena (Data)**: Añadir `DbSet` para los perfiles en `ApplicationDbContext` y generar Migración.
